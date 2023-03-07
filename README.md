@@ -42,7 +42,7 @@ How well did each programming language perform? As can be seen in the following 
 
 ![](plot/comparison.svg)
 
-Even though these different programming languages are not equal in terms of run speed, the time spent programming the model must also be accounted for. By far, Julia, MATLAB and R took me 10 to 20 minutes of coding. I needed at least one or two hours to code in Rust. Note that Rust is the programming language I am the last familiar with. I report below the averaged running times as well as confidence intervals:
+Even though these different programming languages are not equal in terms of run speed, the time spent programming the model must also be accounted for. By far, Julia, MATLAB and R took me 10 to 20 minutes of coding. I needed at least one or two hours to code in Rust. Note that Rust is the programming language I am the last familiar with. I report below the averaged running times:
 
 |   | Mean |
 |---|---|
