@@ -31,5 +31,5 @@ g <- g + ylab('p(correct)')
 g <- g + xlab('Serial position')
 g
 
-fname <- here('plot', 'scores.svg')
+fname <- here('plot', 'scores_model.svg')
 ggsave(fname, g, width = 4, height = 3.5)

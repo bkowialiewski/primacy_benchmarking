@@ -1,8 +1,0 @@
-deltas <- c(0, 3)
-
-relativeL <- exp(-0.5 * deltas)
-
-weights <- relativeL / sum(relativeL)
-
-print(weights)
-weights[1]/weights[2]
